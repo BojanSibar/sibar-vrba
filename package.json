@@ -1,5 +1,5 @@
 {
-  "name": "sibar-vrba",
+  "name": "wrkflow",
   "private": true,
   "version": "1.0.0",
   "description": "pomoz bog",
@@ -9,5 +9,11 @@
   "license": "MIT",
   "devDependencies": {
     "lerna": "^3.20.2"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "sexy": "lerna run sexy"
   }
 }
