@@ -1,0 +1,9 @@
+{
+  "name": "@wrkflow/common_components",
+  "version": "0.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "restricted"
+  }
+}
