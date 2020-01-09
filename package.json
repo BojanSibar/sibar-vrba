@@ -1,0 +1,13 @@
+{
+  "name": "sibar-vrba",
+  "private": true,
+  "version": "1.0.0",
+  "description": "pomoz bog",
+  "main": "index.js",
+  "repository": "https://github.com/BojanSibar/sibar-vrba.git",
+  "author": "<bojan.sibar@symphony.is>",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^3.20.2"
+  }
+}
