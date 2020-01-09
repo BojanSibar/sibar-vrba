@@ -1,3 +1,3 @@
 module.exports = appname => {
-  console.log("Some random text as version 0.0.0 from ", appname, "!");
+  console.log("NPM rocks (v 0.2.0) ", appname, "!");
 };
