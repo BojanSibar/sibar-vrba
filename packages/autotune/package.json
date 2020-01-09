@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@wrkflow/common_components": "^0.1.0"
+    "@wrkflow/common_components": "0.1.0"
   },
   "scripts": {
     "sexy": "node index.js"
