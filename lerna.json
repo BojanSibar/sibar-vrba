@@ -2,5 +2,10 @@
   "packages": ["packages/*"],
   "version": "independent",
   "npmClient": "yarn",
-  "useWorkspaces": true
+  "useWorkspaces": true,
+  "command": {
+    "publish": {
+      "registry": "http://npm-repository-alb-65492430.us-east-1.elb.amazonaws.com"
+    }
+  }
 }
