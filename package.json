@@ -14,6 +14,7 @@
     "packages/*"
   ],
   "scripts": {
-    "sexy": "lerna run sexy"
+    "sexy": "lerna run sexy",
+    "start": "cd packages/main-app && yarn start"
   }
 }
