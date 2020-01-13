@@ -1,6 +1,6 @@
 {
   "name": "@wrkflow/sexy-app",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "dependencies": {
     "@react-workspaces/react-scripts": "3.3.0-alpha-08",
@@ -11,7 +11,7 @@
     "@types/node": "^12.0.0",
     "@types/react": "^16.9.0",
     "@types/react-dom": "^16.9.0",
-    "@wrkflow/sexy": "^0.1.0",
+    "@wrkflow/sexy": "^0.1.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "typescript": "~3.7.2"
