@@ -1,7 +1,6 @@
 {
   "name": "@wrkflow/sexy-app",
   "version": "0.1.3",
-  "private": true,
   "dependencies": {
     "@react-workspaces/react-scripts": "3.3.0-alpha-08",
     "@testing-library/jest-dom": "^4.2.4",
