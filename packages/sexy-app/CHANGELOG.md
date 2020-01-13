@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.7](https://github.com/BojanSibar/sibar-vrba/compare/@wrkflow/sexy-app@0.1.6...@wrkflow/sexy-app@0.1.7) (2020-01-13)
+
+**Note:** Version bump only for package @wrkflow/sexy-app
+
+
+
+
+
 ## [0.1.6](https://github.com/BojanSibar/sibar-vrba/compare/@wrkflow/sexy-app@0.1.5...@wrkflow/sexy-app@0.1.6) (2020-01-13)
 
 **Note:** Version bump only for package @wrkflow/sexy-app
