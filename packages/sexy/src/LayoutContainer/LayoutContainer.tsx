@@ -2,7 +2,7 @@ import React, { FC } from "react";
 
 const LayoutContainer: FC = () => {
   const logMe = () => {
-    alert("idemo");
+    console.log("idemo");
   };
   return (
     <div>
